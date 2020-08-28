@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Victoria Fernandez Abrevaya
-email: victoria.abrevaya@tuebingen.mpg.de
+title: Victoria Fern&#225;ndez Abrevaya
+email: #
 description: > # this means to ignore newlines until "url:"
   Victoria Fernandez Abrevaya research website. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -38,20 +38,20 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: vabrevaya # your GitHub user name
-#twitter_username: # your Twitter handle
+twitter_username: # your Twitter handle
 linkedin_username: victoria-fernandez-abrevaya # your LinkedIn user name
 scholar_userid: nOAIpv4AAAAJ # your Google Scholar ID
 orcid_id: 0000-0002-9829-4929 # your ORCID ID
-#medium_username: # your Medium username
-#quora_username: # your Quora username
-#publons_id: # your ID on Publons
-#research_gate_profile: # your profile on ResearchGate
-#blogger_url: # your blogger URL
+medium_username: # your Medium username
+quora_username: # your Quora username
+publons_id: # your ID on Publons
+research_gate_profile: # your profile on ResearchGate
+blogger_url: # your blogger URL
 
-#contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: # >
+  # You can even add a little note about which of these is the best way to reach you.
 
-#google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -153,7 +153,7 @@ enable_katex:             true
 enable_mansory:           true
 enable_progressbar:       true
 enable_tooltips:          false
-show_social_icons:        true
+show_social_icons:        false
 
 # -----------------------------------------------------------------------------
 # Library versions
